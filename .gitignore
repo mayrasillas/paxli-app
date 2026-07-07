@@ -24,3 +24,6 @@ coverage/
 
 # Logs
 *.log
+
+# Build cache
+tsconfig.tsbuildinfo
