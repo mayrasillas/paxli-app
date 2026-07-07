@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "nombre": "Carlos Martinez",
+    "categoria": "plomeros",
+    "foto": "/images/provider1.jpg",
+    "calificacion": 4.8,
+    "precio": "$350/hr",
+    "zona": "Monterrey Centro",
+    "descripcion": "15 anos de experiencia en plomeria residencial",
+    "telefono": "81-1234-5678"
+  },
+  {
+    "id": "2",
+    "nombre": "Roberto Lopez",
+    "categoria": "plomeros",
+    "foto": "/images/provider2.jpg",
+    "calificacion": 4.5,
+    "precio": "$300/hr",
+    "zona": "San Pedro",
+    "descripcion": "Especialista en fugas y drenaje",
+    "telefono": "81-2345-6789"
+  },
+  {
+    "id": "3",
+    "nombre": "Ana Rodriguez",
+    "categoria": "electricistas",
+    "foto": "/images/provider3.jpg",
+    "calificacion": 4.9,
+    "precio": "$400/hr",
+    "zona": "Valle Oriente",
+    "descripcion": "Instalaciones electricas certificadas",
+    "telefono": "81-3456-7890"
+  },
+  {
+    "id": "4",
+    "nombre": "Miguel Torres",
+    "categoria": "electricistas",
+    "foto": "/images/provider4.jpg",
+    "calificacion": 4.3,
+    "precio": "$280/hr",
+    "zona": "Cumbres",
+    "descripcion": "Reparacion de circuitos y apagones",
+    "telefono": "81-4567-8901"
+  },
+  {
+    "id": "5",
+    "nombre": "Jose Hernandez",
+    "categoria": "mecanicos",
+    "foto": "/images/provider5.jpg",
+    "calificacion": 4.7,
+    "precio": "$320/hr",
+    "zona": "Centro",
+    "descripcion": "Reparacion de electrodomesticos y aire acondicionado",
+    "telefono": "81-5678-9012"
+  },
+  {
+    "id": "6",
+    "nombre": "Laura Sanchez",
+    "categoria": "mecanicos",
+    "foto": "/images/provider6.jpg",
+    "calificacion": 4.6,
+    "precio": "$290/hr",
+    "zona": "Contry",
+    "descripcion": "Mantenimiento preventivo de aparatos",
+    "telefono": "81-6789-0123"
+  }
+]

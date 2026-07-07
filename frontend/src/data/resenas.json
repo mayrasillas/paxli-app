@@ -1,0 +1,107 @@
+[
+  {
+    "proveedorId": "1",
+    "autor": "Maria Garcia",
+    "calificacion": 5,
+    "comentario": "Excelente servicio, muy puntual",
+    "fecha": "2024-01-15"
+  },
+  {
+    "proveedorId": "1",
+    "autor": "Pedro Ramirez",
+    "calificacion": 4,
+    "comentario": "Buen trabajo, un poco caro pero vale la pena",
+    "fecha": "2024-02-03"
+  },
+  {
+    "proveedorId": "1",
+    "autor": "Sofia Mendoza",
+    "calificacion": 5,
+    "comentario": "Reparo la fuga en minutos, muy profesional",
+    "fecha": "2024-03-10"
+  },
+  {
+    "proveedorId": "2",
+    "autor": "Luis Fernandez",
+    "calificacion": 4,
+    "comentario": "Trabajo rapido y limpio",
+    "fecha": "2024-01-20"
+  },
+  {
+    "proveedorId": "2",
+    "autor": "Carmen Ortiz",
+    "calificacion": 5,
+    "comentario": "Muy amable y conocedor de su oficio",
+    "fecha": "2024-02-15"
+  },
+  {
+    "proveedorId": "3",
+    "autor": "Ricardo Vega",
+    "calificacion": 5,
+    "comentario": "La mejor electricista de la zona, totalmente recomendada",
+    "fecha": "2024-01-10"
+  },
+  {
+    "proveedorId": "3",
+    "autor": "Diana Luna",
+    "calificacion": 5,
+    "comentario": "Trabajo impecable, explica todo lo que hace",
+    "fecha": "2024-02-28"
+  },
+  {
+    "proveedorId": "3",
+    "autor": "Fernando Reyes",
+    "calificacion": 4,
+    "comentario": "Muy profesional, llego a tiempo",
+    "fecha": "2024-03-05"
+  },
+  {
+    "proveedorId": "4",
+    "autor": "Patricia Morales",
+    "calificacion": 4,
+    "comentario": "Resolvio el problema rapido",
+    "fecha": "2024-01-25"
+  },
+  {
+    "proveedorId": "4",
+    "autor": "Alberto Cruz",
+    "calificacion": 4,
+    "comentario": "Buen precio y buen servicio",
+    "fecha": "2024-03-12"
+  },
+  {
+    "proveedorId": "5",
+    "autor": "Gabriela Flores",
+    "calificacion": 5,
+    "comentario": "Reparo mi lavadora que ya daba por perdida",
+    "fecha": "2024-02-08"
+  },
+  {
+    "proveedorId": "5",
+    "autor": "Andres Salazar",
+    "calificacion": 4,
+    "comentario": "Muy buen diagnostico, honesto con los precios",
+    "fecha": "2024-03-01"
+  },
+  {
+    "proveedorId": "5",
+    "autor": "Monica Herrera",
+    "calificacion": 5,
+    "comentario": "Excelente, mi aire quedo como nuevo",
+    "fecha": "2024-03-15"
+  },
+  {
+    "proveedorId": "6",
+    "autor": "Alejandro Rios",
+    "calificacion": 5,
+    "comentario": "Mantenimiento completo a buen precio",
+    "fecha": "2024-01-30"
+  },
+  {
+    "proveedorId": "6",
+    "autor": "Valentina Castro",
+    "calificacion": 4,
+    "comentario": "Muy detallista y profesional",
+    "fecha": "2024-02-20"
+  }
+]

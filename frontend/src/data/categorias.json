@@ -1,0 +1,20 @@
+[
+  {
+    "id": "plomeros",
+    "nombre": "Plomeros",
+    "icono": "\ud83d\udd27",
+    "descripcion": "Reparacion de tuberias y drenaje"
+  },
+  {
+    "id": "electricistas",
+    "nombre": "Electricistas",
+    "icono": "\u26a1",
+    "descripcion": "Instalacion y reparacion electrica"
+  },
+  {
+    "id": "mecanicos",
+    "nombre": "Mecanicos",
+    "icono": "\ud83d\udd29",
+    "descripcion": "Reparacion de electrodomesticos"
+  }
+]
